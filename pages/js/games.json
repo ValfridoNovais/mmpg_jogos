@@ -154,7 +154,7 @@
         },
         "264b79a3-7925-46d0-97a7-d74131db54ff": {
             "board": [
-                " ",
+                "X",
                 " ",
                 " ",
                 " ",
@@ -164,7 +164,7 @@
                 " ",
                 " "
             ],
-            "current_player": "X",
+            "current_player": "O",
             "players": [
                 "Jogador-greedy-starling",
                 "Jogador-greedy-starling"
