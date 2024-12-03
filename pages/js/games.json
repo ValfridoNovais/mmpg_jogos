@@ -18,6 +18,25 @@
                 "Aguardando jogador..."
             ],
             "winner": null
+        },
+        "90d89428-c1e3-46f1-9435-0d029c8374b7": {
+            "board": [
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
+            ],
+            "current_player": "X",
+            "players": [
+                "Jogador-outstanding-panther",
+                "Aguardando jogador..."
+            ],
+            "winner": null
         }
     }
 }
