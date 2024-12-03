@@ -167,7 +167,7 @@
             "current_player": "X",
             "players": [
                 "Jogador-greedy-starling",
-                "Aguardando jogador..."
+                "Jogador-greedy-starling"
             ],
             "winner": null
         }
