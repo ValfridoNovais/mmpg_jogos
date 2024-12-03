@@ -195,14 +195,14 @@
                 "X",
                 "O",
                 " ",
-                " ",
+                "O",
                 "X",
                 " ",
                 " ",
                 " ",
                 " "
             ],
-            "current_player": "O",
+            "current_player": "X",
             "players": [
                 "VNS",
                 "MMPG"
