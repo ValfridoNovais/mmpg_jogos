@@ -151,6 +151,25 @@
                 "Aguardando jogador..."
             ],
             "winner": null
+        },
+        "264b79a3-7925-46d0-97a7-d74131db54ff": {
+            "board": [
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
+            ],
+            "current_player": "X",
+            "players": [
+                "Jogador-greedy-starling",
+                "Aguardando jogador..."
+            ],
+            "winner": null
         }
     }
 }
