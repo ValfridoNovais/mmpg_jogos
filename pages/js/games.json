@@ -196,13 +196,13 @@
                 "O",
                 " ",
                 " ",
-                " ",
+                "X",
                 " ",
                 " ",
                 " ",
                 " "
             ],
-            "current_player": "X",
+            "current_player": "O",
             "players": [
                 "VNS",
                 "MMPG"
