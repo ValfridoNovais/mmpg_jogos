@@ -159,12 +159,12 @@
                 " ",
                 " ",
                 "O",
-                " ",
+                "O",
                 " ",
                 " ",
                 " "
             ],
-            "current_player": "O",
+            "current_player": "X",
             "players": [
                 "Jogador-greedy-starling",
                 "Jogador-greedy-starling"
