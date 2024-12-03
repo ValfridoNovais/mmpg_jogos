@@ -208,6 +208,25 @@
                 "MMPG"
             ],
             "winner": "X"
+        },
+        "ab78a8f0-77e8-4e8a-949b-c0e44d693b9f": {
+            "board": [
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
+            ],
+            "current_player": "X",
+            "players": [
+                "MMPG",
+                "Aguardando jogador..."
+            ],
+            "winner": null
         }
     }
 }
