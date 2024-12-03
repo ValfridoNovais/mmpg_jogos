@@ -1,0 +1,14 @@
+# Arquivo: .streamlit/config.toml
+
+[server]
+headless = true                # Executa o Streamlit no modo sem interface
+port = 8501                    # Porta padrão do servidor Streamlit
+enableCORS = false             # Permite comunicação entre origens cruzadas (CORS)
+enableXsrfProtection = false   # Desativa proteção XSRF (útil para desenvolvimento)
+
+[theme]
+primaryColor = "#4CAF50"       # Cor principal (verde)
+backgroundColor = "#FFFFFF"    # Cor de fundo (branco)
+secondaryBackgroundColor = "#F7F7F7"  # Fundo da barra lateral
+textColor = "#000000"          # Cor do texto (preto)
+font = "sans serif"            # Fonte padrão
