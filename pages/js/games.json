@@ -1,0 +1,23 @@
+{
+    "games": {
+        "45f23a8a-7125-498e-ab69-b4def781081f": {
+            "board": [
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
+            ],
+            "current_player": "X",
+            "players": [
+                "Jogador-cinnamon-sambar",
+                "Aguardando jogador..."
+            ],
+            "winner": null
+        }
+    }
+}
