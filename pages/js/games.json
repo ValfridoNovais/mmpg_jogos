@@ -156,7 +156,7 @@
             "board": [
                 "X",
                 "X",
-                " ",
+                "X",
                 " ",
                 "O",
                 "O",
@@ -164,7 +164,7 @@
                 " ",
                 " "
             ],
-            "current_player": "X",
+            "current_player": "O",
             "players": [
                 "Jogador-greedy-starling",
                 "Jogador-greedy-starling"
