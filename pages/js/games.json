@@ -170,6 +170,25 @@
                 "Jogador-greedy-starling"
             ],
             "winner": "X"
+        },
+        "c0edcf26-eb4c-4405-a839-e97a5f547a97": {
+            "board": [
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
+            ],
+            "current_player": "X",
+            "players": [
+                "VNS",
+                "Aguardando jogador..."
+            ],
+            "winner": null
         }
     }
 }
