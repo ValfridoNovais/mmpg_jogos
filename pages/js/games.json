@@ -132,6 +132,25 @@
                 "Jogador-devout-bullfrog"
             ],
             "winner": null
+        },
+        "6da0657e-bd86-46d1-86d5-5539c4e82006": {
+            "board": [
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
+            ],
+            "current_player": "X",
+            "players": [
+                "Jogador-translucent-skylark",
+                "Aguardando jogador..."
+            ],
+            "winner": null
         }
     }
 }
