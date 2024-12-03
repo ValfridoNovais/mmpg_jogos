@@ -1,0 +1,24 @@
+{
+    "users": {
+        "valfridonovais": {
+            "name": "Valfrido Novais",
+            "password": "senha_segura",
+            "email": "valfrido@example.com"
+        },
+        "marina": {
+            "name": "Marina Silva",
+            "password": "123456",
+            "email": "marina@example.com"
+        },
+        "VNS": {
+            "name": "Valfrido Novais",
+            "password": "dd130a849d7b29e5541b05d2f7f86a4acd4f1ec598c1c9438783f56bc4f0ff80",
+            "email": "novaisufvjm@gmail.com"
+        },
+        "MMPG": {
+            "name": "Novais Santos",
+            "password": "dd130a849d7b29e5541b05d2f7f86a4acd4f1ec598c1c9438783f56bc4f0ff80",
+            "email": "mmpgnovais@gmail.com"
+        }
+    }
+}

@@ -4,10 +4,25 @@ CSS_STYLE = """
 <style>
 /* Estilos para o layout principal */
 [data-testid="stAppViewContainer"] {
-    background-color: #F7F7F7; /* Cor de fundo para toda a página */
+    background-color: #CFA494; /* Cor de fundo para toda a página */
     padding: 0;
     margin: 0;
 }
+
+[data-testid="stButton"] button {
+        font-size: 2rem;
+        font-weight: bold;
+        width: 100%;
+        height: 100%;
+        background-color: #f0f0f0;
+        color: #000;
+        border-radius: 8px;
+    }
+
+    [data-testid="stButton"] button:hover {
+        background-color: #e0e0e0;
+        color: #333;
+    }
 
 /* Estilização dos botões */
 [data-testid="stButton"] {
