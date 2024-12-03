@@ -189,6 +189,25 @@
                 "VNS"
             ],
             "winner": null
+        },
+        "fff3e1c5-af33-42b8-bfb2-f6fde57b8aaa": {
+            "board": [
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
+            ],
+            "current_player": "X",
+            "players": [
+                "VNS",
+                "Aguardando jogador..."
+            ],
+            "winner": null
         }
     }
 }
