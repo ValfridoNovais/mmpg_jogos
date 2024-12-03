@@ -192,7 +192,7 @@
         },
         "fff3e1c5-af33-42b8-bfb2-f6fde57b8aaa": {
             "board": [
-                " ",
+                "X",
                 " ",
                 " ",
                 " ",
@@ -202,7 +202,7 @@
                 " ",
                 " "
             ],
-            "current_player": "X",
+            "current_player": "O",
             "players": [
                 "VNS",
                 "MMPG"
